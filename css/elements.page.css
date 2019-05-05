@@ -5,7 +5,19 @@
 */
 
 html {
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: "Droid Serif", Georgia, serif;
+    color: #5C6366;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    box-sizing: border-box;
+}
 
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
 }
 
 /*
